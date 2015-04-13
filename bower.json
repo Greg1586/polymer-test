@@ -1,0 +1,23 @@
+{
+  "name": "polymer-test",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Greg1586/polymer-test",
+  "authors": [
+    "Greg1586 <gskinner@thoughtworks.com>"
+  ],
+  "description": "polymer test for webdev",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "polymer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
